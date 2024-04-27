@@ -1,0 +1,1 @@
+function makeData(difficulty : number, description : string){}
